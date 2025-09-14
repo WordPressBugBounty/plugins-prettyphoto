@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: PrettyPhoto
+Plugin Name: PrettyPhoto - Simple Lightbox Plugin
 Plugin URI: https://www.iBabar.com
 Description: The WordPress port of the jQuery library named PrettyPhoto.
-Version: 1.2.4
+Version: 1.2.5
 Author: Babar
 Author URI: https://master-addons.com/
 Tested Up to: 6.8

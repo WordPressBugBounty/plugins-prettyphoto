@@ -1,10 +1,10 @@
-=== WordPress prettyPhoto ===
+=== PrettyPhoto - Simple Lightbox Plugin ===
 Contributors: ibabar, litonice13
 Donate link: http://donate.ibabar.com
 Tags: prettyPhoto, thickbox, lightbox, WordPress likghtbox, fancybox, popup, pop up, pop up box, slick, slider, video popup, gallery popup
 Requires at least: 4
 Tested Up to: 6.8
-Stable tag: 1.2.4
+Stable tag: 1.2.5
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
